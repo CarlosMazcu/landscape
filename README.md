@@ -39,12 +39,11 @@ To execute the program, use the following command:
 ```bash
 ./landscape.elf 2400
 ```
+Here, `2400` represents the clock speed of your CPU in MHz.
 
-## Dependences
+## Dependencies
 
 - **SDL 1.2 (libSDL)** - linked like -lSDL in compile.sh.
-
-Here, `2400` represents the clock speed of your CPU in MHz.
 
 ## Notes
 
